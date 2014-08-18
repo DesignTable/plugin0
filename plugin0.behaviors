@@ -1,0 +1,4 @@
+{:+ {:app [(:lt.objs.plugins/load-js ["plugin0_compiled.js"])
+           (:lt.objs.plugins/load-keymap "plugin0.keymap")]
+     :plugin0.panel [:dt.plugins.plugin0/destroy-on-close]}
+}

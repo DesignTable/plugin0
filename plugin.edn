@@ -1,0 +1,7 @@
+ {:name "plugin0"
+ :version "0.0.1"
+ :author "DesignTable"
+ :source "https://github.com/DesignTable/plugin0"
+ :desc "Simplest plugin for Light Table"
+ :dependencies []
+ :behaviors "plugin0.behaviors"}
